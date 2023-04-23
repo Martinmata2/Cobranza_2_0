@@ -13,19 +13,19 @@ class Config
      * Database name
      * @var string
      */
-    const DB_NAME = 'gposauel_funeraria_general';
+    const DB_NAME = 'basededtoa';
     
     /**
      * Database user
      * @var string
      */
-    const DB_USER = 'gposauel_admin';
+    const DB_USER = 'root';
     
     /**
      * Database password
      * @var string
      */
-    const DB_PASSWORD = 'xSFYY384[,Jv';
+    const DB_PASSWORD = '';
     
     
     /**
