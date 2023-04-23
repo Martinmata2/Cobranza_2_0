@@ -1,6 +1,5 @@
 <?php
 namespace App\Controllers;
-use App\Modelos\Clientes;
 use Cabeca\Controller;
 use App\Modelos\Generico;
 use Cabeca\Core\ArraytoObject;
