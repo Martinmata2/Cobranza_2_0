@@ -1,0 +1,26 @@
+{
+    "repositories": 
+    [
+        {
+            "type": "vcs",
+            "url": "https://github.com/Martinmata2/Soisi"
+        },        		
+        {
+            "type": "vcs",
+            "url": "https://github.com/Martinmata2/CFDI"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/Martinmata2/Solucion"
+        }
+
+    ],
+    "require": {
+        "cabeca/soisi":"3.2.0",
+        "cabeca/cfdi":"1.0.3",
+        "cabeca/solucion":"1.0.6",
+        "mpdf/mpdf": "^8.1",
+        "chillerlan/php-qrcode": "^5.0",
+        "phpmailer/phpmailer": "^6.9.1"
+    }
+}
